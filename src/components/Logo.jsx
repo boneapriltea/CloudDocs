@@ -6,7 +6,7 @@ function Logo() {
     <div style={{ display: "flex", alignItems: "center" }}>
       <Topgg />
       <p style={{ margin: "0 0 0 15px" }} className="site-title">
-        Top.gg Documentation
+        SleepyCloud Docs
       </p>
     </div>
   );

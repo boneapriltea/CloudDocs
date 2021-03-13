@@ -1,11 +1,12 @@
 {
   "keywords": [],
-  "name": "topgg-docs",
-  "description": "Top.gg documentation",
+  "name": "Clouddocs",
+  "description": "SleepyCloud Docs",
   "license": "MIT",
   "scripts": {
     "start": "gatsby develop",
-    "build": "gatsby build"
+    "build": "gatsby build",
+    "freshbuild": "rm /Users/farrelldjohan/Documents/SpaceXLiquid/CloudDocs/.cache && gatsby build"
   },
   "dependencies": {
     "@apollo/space-kit": "^8.7.2",

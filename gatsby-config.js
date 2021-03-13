@@ -13,16 +13,16 @@ module.exports = {
       resolve: "gatsby-theme-apollo-docs",
       options: {
         root: __dirname,
-        siteName: "Top.gg documentation",
-        description: "Top.gg developer documentation",
-        githubRepo: "top-gg/docs",
-        baseUrl: "https://docs.top.gg",
+        siteName: "SleepyCloud Documentation",
+        description: "SleepyCloud Documentation",
+        githubRepo: "sleepyproject/CloudDocs",
+        baseUrl: "https://clouddocs.spacexliquid.xyz",
         // defaultVersion: "0",
         // versions: {
         //   1: "version-1",
         // },
         sidebarCategories: {
-          // null: ["getting-started"],
+          welcome: filesOf("welcome"),
           resources: filesOf("resources"),
           libraries: filesOf("libraries"),
           api: filesOf("api"),

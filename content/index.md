@@ -3,7 +3,7 @@ title: Home
 description: Welcome to CloudDocs
 ---
 
-Hey there, welcome to SleepyCloud docs. You are currently viewing **v1** of our documentation. We're going to be working on the next version of the SleepyCloud Documentations (v1.1) soon, stay tuned!
+Hey there, welcome to SleepyCloud docs. You are currently viewing **v1** of our documentation. We're going to be working on the next version of the SleepyCloud Documentation (v1.1) soon, stay tuned!
 
 ## Getting Started
 

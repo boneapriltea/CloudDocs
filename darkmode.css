@@ -50,7 +50,7 @@ main > header > div  {
 .site-title,
 .title-sidebar {
     font-weight: 600;
-}
+} 
 
 :not(pre) > code[class*="language-"] {
     color: #d4b27f;
