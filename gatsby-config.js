@@ -24,8 +24,6 @@ module.exports = {
         sidebarCategories: {
           welcome: filesOf("welcome"),
           resources: filesOf("resources"),
-          libraries: filesOf("libraries"),
-          api: filesOf("api"),
         },
       },
     },
